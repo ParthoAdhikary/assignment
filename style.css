@@ -7,6 +7,7 @@ body{
     display: flex;
     width: 80%;
     margin: 0 auto;
+    padding-top: 50px;
     justify-content: space-around;
 }
 .head-line{
@@ -19,11 +20,12 @@ body{
     margin: 20px;
 }
 .image img{
-    width: 300px;
-    padding-left: 300px;
+    width: 500px;
+    padding-left: 100px;
+    margin-bottom: 50px;
 }
 .left-sight{
-    margin-top: 50px;
+    margin-top: 150px;
 }
 .button{
     padding: 10px 30px;
