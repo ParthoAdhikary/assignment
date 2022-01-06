@@ -129,6 +129,59 @@ body{
     font-size: 50px;
     color: #206F75;
 }
+.section5{
+    margin: 200px;
+}
+.section5 h2{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 80px;
+    font-size: 60px;
+    font-weight: bold;
+}
+#sec5-text-step h1{
+    padding: 10x;
+    margin-right: 50px;
+}
+#sec5-text-step{
+    margin: 20px;
+    width: 50px;
+    padding: 30px 30px 20px 50px;
+    background-color: wheat;
+    border-radius: 30px;
+    font-family: 'Yeseva One', cursive;
+    color: red;
+    border: solid black;
+    box-shadow:1px 2px 20px 10px dimgray;
+}
+
+#sec5-step1{
+    margin: 20px;
+    width: 400px;
+    padding: 30px 30px 20px 50px;
+    background: rgba(72, 107, 212, 0.589);
+    border-radius: 30px;
+    border: solid black;
+    box-shadow:1px 2px 20px 10px dimgray;
+}
+#sec5-step2{
+    margin: 20px;
+    width: 400px;
+    padding: 30px 30px 20px 50px;
+    background: rgba(99, 197, 141, 0.404);
+    border-radius: 30px;
+    border: solid black;
+    box-shadow:1px 2px 20px 10px dimgray;
+}
+#sec5-step3{
+    margin: 20px;
+    width: 400px;
+    padding: 30px 30px 20px 50px;
+    background: rgba(48, 192, 192, 0.568);
+    border-radius: 30px;
+    border: solid black;
+    box-shadow:1px 2px 20px 10px dimgray;
+}
 .icon img{
     width: 200px;
 }
@@ -150,5 +203,5 @@ footer{
     color: yellow;
 }
 .footer p{
-    
+    color: slategray;
 }
