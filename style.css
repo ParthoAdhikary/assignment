@@ -2,6 +2,7 @@ body{
     margin: 0;
     padding: 0;
     font-family: Arial, Helvetica, sans-serif;
+    
 }
 .section1{
     display: flex;
@@ -11,6 +12,7 @@ body{
     justify-content: space-around;
 }
 .head-line{
+    font-family: 'Yeseva One', cursive;
     border-left: 5px solid seagreen;
     padding-left: 10px;
     font-size: 35px;
@@ -98,6 +100,7 @@ body{
 }
 .sec3pra{
     width: 80%px;
+    text-align: justify;
     margin-left: 200px;
 }
 .sec3pra h3{
@@ -128,4 +131,24 @@ body{
 }
 .icon img{
     width: 200px;
+}
+footer{
+    background-color: black;
+    width: 100%;
+    height: 150px;
+    text-align: center;
+    color: white;
+}
+.footer{
+    padding: 1px;
+}
+.footer h1{
+    font-family: 'Pattaya', sans-serif;
+    font-size: 40px;
+}
+.footer h1 span{
+    color: yellow;
+}
+.footer p{
+    
 }
